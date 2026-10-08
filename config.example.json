@@ -1,0 +1,17 @@
+{
+  "name": "비서 이름",
+  "weather": {
+    "home": { "name": "집 동네 (예: 망원동)", "lat": 37.5556, "lon": 126.9015 },
+    "work": { "name": "회사 동네 (예: 광화문)", "lat": 37.5714, "lon": 126.9768 },
+    "commute_go": "08:30",
+    "commute_back": "17:30",
+    "weekend_am": "10:00",
+    "weekend_pm": "15:00"
+  },
+  "calendars": [
+    { "label": "공통", "mark": "👫", "type": "caldav", "url": "https://caldav.calendar.naver.com/caldav/아이디/calendar/캘린더번호/" },
+    { "label": "내 일정", "type": "caldav", "url": "https://caldav.calendar.naver.com/caldav/아이디/calendar/캘린더번호/" },
+    { "label": "구글", "type": "ics", "url_env": "GOOGLE_ICS_URL" }
+  ],
+  "anniversary_days_before": 7
+}
