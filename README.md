@@ -41,3 +41,8 @@
 | `send.py` | 텔레그램으로 보낸다 |
 | `find_calendars.py` | 내 캘린더 목록을 찾아 준다 (설정할 때만) |
 | `.env` | 토큰과 비밀번호. **GitHub에 올라가지 않는다** |
+
+## 다음 에이전트
+
+비서를 만들었다면 두 번째로 **큐레이터**를 만들어 보자. 관심 분야 소식을 골라, 교차검증한 것만 보내 준다.
+→ [runway-curator](https://github.com/ljlalanow-source/runway-curator)
