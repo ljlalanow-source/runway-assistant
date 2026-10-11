@@ -42,7 +42,7 @@
 | `find_calendars.py` | 내 캘린더 목록을 찾아 준다 (설정할 때만) |
 | `.env` | 토큰과 비밀번호. **GitHub에 올라가지 않는다** |
 
-## 다음 에이전트
+## 리포터 템플릿
 
-리포터를 먼저 만들었다면, 이번엔 내 하루를 챙기는 비서. 리포터와 뼈대가 같고 캘린더 연결만 새로 배운다.
+비서보다 리포터를 먼저 만들어 보면 좋다. 캘린더 연결 없이 봇, 규칙표, 예약을 한 바퀴 돌 수 있다.
 → [runway-reporter](https://github.com/ljlalanow-source/runway-reporter)
