@@ -44,5 +44,5 @@
 
 ## 다음 에이전트
 
-비서를 만들었다면 두 번째로 **큐레이터**를 만들어 보자. 관심 분야 소식을 골라, 교차검증한 것만 보내 준다.
-→ [runway-curator](https://github.com/ljlalanow-source/runway-curator)
+리포터를 먼저 만들었다면, 이번엔 내 하루를 챙기는 비서. 리포터와 뼈대가 같고 캘린더 연결만 새로 배운다.
+→ [runway-reporter](https://github.com/ljlalanow-source/runway-reporter)
